@@ -1,2 +1,2 @@
-# EMLO
-This repository contains the assignments and the class notes for the ELMO Course by TSAI.
+# ERA
+This repository contains the assignments and the class notes for the ERA Course by TSAI.
